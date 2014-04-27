@@ -9,7 +9,7 @@ A simple segmented control view for iOS 7.
 
 Simply plop this repo into your project, and you should be good to go.
 
-## Simple usage
+## Usage
 
     @interface LPSegmentedControl : UIView
 
